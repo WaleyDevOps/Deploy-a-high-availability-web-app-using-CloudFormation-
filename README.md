@@ -20,5 +20,9 @@ In this project (Udagram App), I deployed web servers for a highly available web
 
 Just run;
 ```sh
-> ./create.sh MyProject-UdagramApp infraandserver.yml infraandserver.json
+ ./create.sh MyProject-UdagramApp infraandserver.yml infraandserver.json
 ```
+
+## NOTE
+```sh
+* The public key was not included for security reason
