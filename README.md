@@ -20,5 +20,5 @@ In this project (Udagram App), I deployed web servers for a highly available web
 
 Just run;
 ```sh
-> ./create.sh UdagramApp infraandserver.yml infraandserver.json
+> ./create.sh MyProject-UdagramApp infraandserver.yml infraandserver.json
 ```
