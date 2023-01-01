@@ -14,8 +14,8 @@ Project 2 - Deploy-a-high-availability-web-app-using-CloudFormation
 * create.sh : Cloudformation create stack script. 
 * update.sh : Cloudformation update stack script.
 * destroy.sh : Cloudformation delete stack script.
-* infraandandserver.yml : Udagram Project's CloudFormation script.
-* infraandserver.json : Udagram Project's CloudFormation script parameters.
+* infraandandserver.yml : Udagram Project's CloudFormation yaml file.
+* infraandserver.json : Udagram Project's CloudFormation json parameters.
 ```
 ## To create the stack:
 
